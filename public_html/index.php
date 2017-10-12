@@ -16,33 +16,35 @@
     </div>
 
     <div class="row">
-        <div class="col s12 m12 l12" style="background-color: #eaeef2;">
-            <div class="row" style="margin-top: 20px;">
-                <div class="col s12 m6 l6">
+        <div class="col s12 m12 l12" style="background-color: #eaeef2; padding:0px;">
+            <div class="row" style="margin:0px">
+                <div class="col s12 m8 l8" style="padding: 0px; margin:0px">
                     <img class="responsive-img" src="img/group-of-sibs-hugging.jpg">
                 </div>
-                <div class="col s12 m6 l6 contain">
-
-                  <div class="row">
-                    <div class="col s1 m4 l4">
-
-                    </div>
-                    <div class="col s10 m4 l4">
-                      <img src="/img/logo-high-res.png" id="logo" >
-                    </div>
-                    <div class="col s1 m4 l4">
-
-                    </div>
+                <div class="col s12 m4 l4">
+                  <div class="padding:50px;">
+                    <h4>Providing information, support, community, and a unified
+                      voice for siblings of individuals with disabilities.
+                      <a href="/about.php"><b>Learn more</b></a>
+                    </h4>
                   </div>
-                    <p>NC Sibs is a statewide group of adult siblings of individuals
-                      with developmental disabilities and the genesis of NC’s very own
-                      chapter of the National Sibling Leadership Network. Created  by
-                      First In Families of North Carolina with generous funding from the
-                      North Carolina Council on Developmental Disabilities, its purpose
-                      is to connect siblings with one another to provide support and
-                      information specific to the unique aspects of the adult sibling
-                      relationship. <a href="/about.php"><b>Learn more</b></a>
-                    </p>
+                  <div class="" style="padding:0px;">
+
+                    <ul class="collapsible z-depth-0" data-collapsible="accordion">
+                      <li>
+                        <div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
+                        <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+                      </li>
+                      <li>
+                        <div class="collapsible-header"><i class="material-icons">place</i>Second</div>
+                        <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+                      </li>
+                      <li>
+                        <div class="collapsible-header"><i class="material-icons">whatshot</i>Third</div>
+                        <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+                      </li>
+                    </ul>
+                  </div>
                 </div>
             </div>
         </div>
@@ -54,9 +56,8 @@
             <div class="box-content col s12 m4 l4">
                 <a href="/resources.php"><img src="img/icon-set/binoculars.svg" class="icon" alt=""></a>
                 <a href="/resources.php"><h4>Resources</h4></a>
-                <p>Search the resources we've gathered for siblings of North Carolinians with developmental disabilities.
-                  Learn more about guardianship and it’s alternatives, advocacy and public policy, and a host of other
-                  useful topics. You can even take a look at our growing list of <a href="/resources.php#faq">frequently asked questions.
+                <p>Search the resources we've gathered for siblings of North Carolinians with developmental disabilities. Learn more about guardianship and it’s alternatives, advocacy and public policy, and a host of other useful topics. You can even take
+                    a look at our growing list of <a href="/resources.php#faq">frequently asked questions.
                   </a> If there are resources you want added to the site please contact us using the links below.</p>
             </div>
 
@@ -69,7 +70,8 @@
             <div class="box-content col s12 m4 l4">
                 <a href="/get-involved.php"><img src="img/icon-set/heart.svg" class="icon" alt=""></a>
                 <a href="/get-involved.php"><h4>Support</h4></a>
-                <p>Help us grow and maintain the network. If you have event space for a sibling meetup, are interested in presenting some useful information to the network, or would like to help in some other way then we would love to hear from you! Contact us using the links below or take a look at our <a href="\get-involved.php"> get involved </a>section.</p>
+                <p>Help us grow and maintain the network. If you have event space for a sibling meetup, are interested in presenting some useful information to the network, or would like to help in some other way then we would love to hear from you! Contact
+                    us using the links below or take a look at our <a href="\get-involved.php"> get involved </a>section.</p>
             </div>
         </div>
     </div>
