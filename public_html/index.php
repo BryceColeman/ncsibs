@@ -11,7 +11,6 @@
 </head>
 
 <body>
-
     <div id="navbar">
         <?php include("includes/navbar.html");?>
     </div>
