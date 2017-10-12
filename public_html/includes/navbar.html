@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Raleway|Roboto:300" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="shortcut icon" href="img/ncsibs-favicon-16.png" type="image/x-icon">
+    <link type="text/css" rel="stylesheet" href="css/materialize.css" media="screen,projection" />
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/fa/css/font-awesome.min.css">
+</head>
+
+<body>
+    <div class="navbar-fixed ">
+        <nav class="z-depth-0">
+            <div class="nav-wrapper" id="navigationBar">
+                <a href="index.php" class="brand-logo"><img src="/img/icon-set/logo-white.svg" alt=""></a>
+                <a href="#" data-activates="menu" class="button-collapse"><i class="material-icons">menu</i></a>
+                <ul class="right hide-on-med-and-down">
+                    <li><a href="/resources.php">Resources</a></li>
+                    <li><a href="/get-involved.php">Get Involved</a></li>
+                    <li><a href="/about.php">About</a></li>
+                    <a class="modal-trigger waves-effect waves-light btn z-depth-0" href="https://docs.google.com/forms/d/e/1FAIpQLSeaSv7242IBLj8MCuArYiH2FsJ0NWUx5u9-NU61mjvHVSkwsg/viewform" target="_blank">JOIN</a>
+                </ul>
+                <ul class="side-nav" id="menu">
+                    <li><a href="/resources.php"><i class="fa fa-book fa-1.5x" aria-hidden="true" style="margin: 0;"></i> Resources</a></li>
+                    <li><a href="/get-involved.php">Get Involved</a></li>
+                    <li><a href="/about.php">About</a></li>
+                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeaSv7242IBLj8MCuArYiH2FsJ0NWUx5u9-NU61mjvHVSkwsg/viewform"><i class="fa fa-user-plus fa-3x" aria-hidden="true" style="color: #006494;"></i>Join</a></li>
+            </div>
+        </nav>
+        <!-- NOTE: End navbar -->
+    </div>
+    <!-- Modal Structure -->
+    <div id="join-modal" class="modal modal-fixed-footer">
+        <div class="modal-content">
+            <div class="row">
+                <form action="https://formspree.io/bryce@fifnc.org" method="POST">
+                    <div class="col s12">
+                        <p>
+                            Sign up to receive information about network events and information.
+                        </p>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s12 m6">
+                            <input type="text" name="first_name" class="validate">
+                            <label for="first_name">First name</label>
+                        </div>
+                        <div class="input-field col s12 m6">
+                            <input id="name" type="text" class="validate">
+                            <label for="last_name">Last name</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s12">
+                            <input id="email" type="email" class="validate">
+                            <label for="email">Email</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                      <div class="input-field col s12">
+                        <input id="autocomplete-input" type="text" class="autocomplete">
+                        <label for="autocomplete-input">NC County</label>
+                      </div>
+                    </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button class="btn waves-effect waves-light" type="submit" value="Submit">Submit<i class="material-icons right">send</i>
+            </button>
+        </div>
+        </form>
+    </div>
+</body>
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="js/materialize.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/google-analytics.js"></script>
+
+</html>
