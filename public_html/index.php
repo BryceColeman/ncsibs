@@ -12,7 +12,6 @@
 
 <body>
 
-  <?php // NOTE: Add modal ?>
     <div id="navbar">
         <?php include("includes/navbar.html");?>
     </div>
