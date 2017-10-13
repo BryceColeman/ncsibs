@@ -15,7 +15,7 @@
         <?php include("includes/navbar.html");?>
     </div>
 
-    <div class="row z-depth-4">
+    <div class="row">
         <div class="col s12 m12 l12" style="background-color: white; padding:0px;">
             <div class="row" style="margin:0px;">
                 <div class="col s12 m8 l8" style="margin:0px">
@@ -54,6 +54,7 @@
             <p>Help us grow and maintain the network. If you have event space for a sibling meetup, are interested in presenting some useful information to the network, or would like to help in some other way then we would love to hear from you! Contact
               us using the links below or take a look at our <a href="\get-involved.php"> get involved </a>section.</p>
             </div>
+            
             <div class="box-content col s12 m4 l4">
                 <a href="/resources.php"><img src="img/icon-set/binoculars.svg" class="icon" alt=""></a>
                 <a href="/resources.php"><h4>Resources</h4></a>

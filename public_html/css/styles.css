@@ -167,8 +167,10 @@ h5 {
 
 .box-content {
     background-color: white;
-    height: 100%;
-    padding: 2em;
+    height: 800px;
+    padding: 5em;
+    border: 1px solid red;
+    border-radius: 50px;
 }
 
 .icon {
