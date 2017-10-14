@@ -165,12 +165,15 @@ h5 {
     color: white;
 }
 
-.box-content {
+.box-border {
     background-color: white;
-    height: 800px;
-    padding: 5em;
-    border: 1px solid red;
-    border-radius: 50px;
+    height: 100% auto;
+    border: 1px solid #2aace1;
+    border-radius: 25px;
+}
+
+#card-text {
+  padding: 30px
 }
 
 .icon {
@@ -196,7 +199,7 @@ h5 {
     display: block;
     width: 100%;
     border-style: solid;
-    border-width: 1px;
+    border-width: 3px;
     color: #eaeef2;
 }
 
