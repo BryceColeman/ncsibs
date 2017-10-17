@@ -22,22 +22,10 @@
                     <img class="responsive-img" src="img/group-of-sibs-hugging.jpg" style="padding-top: 7px;">
                 </div>
                 <div class="col s12 m4 l4" style="background-color: white;">
-                    <h2>NC Sibs</h2>
+                    <h1>NC Sibs</h1>
                     <p class="sub-text">Providing information, support, community, and a unified voice for siblings of individuals with disabilities.
                         <a href="/about.php"><b>Learn more about our mission</b></a>
                     </p>
-                    <div class="" style="padding-top:20px;">
-                        <div class="collapsible-header"><i class="fa fa-calendar" aria-hidden="true" style="color: #006494; font-size: 30px;"></i>
-                            <h4 style="color:#c03a2b">
-                              Upcoming Events!
-                    </h4>
-                        </div>
-                        <p style="padding-bottom: 15px;">
-                            Join us on Saturday, October 14 in Greensboro, NC for a NC Sibs event. <a href="files/oct-14-social.pdf">Click here</a> for the flyer. Don't forget to visit our <a href="https://www.meetup.com/ncsibs/">Meetup page</a> for more
-                            details!
-                        </p>
-
-                    </div>
                 </div>
             </div>
         </div>
