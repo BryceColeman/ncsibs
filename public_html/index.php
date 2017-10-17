@@ -23,8 +23,8 @@
                 </div>
                 <div class="col s12 m4 l4" style="background-color: white;">
                     <h1>NC Sibs</h1>
-                    <p class="sub-text">Providing information, support, community, and a unified voice for siblings of individuals with disabilities.
-                        <a href="/about.php"><b>Learn more about our mission</b></a>
+                    <p class="sub-text">Providing information, support, community, and a unified voice for siblings of individuals with disabilities. <br>
+                      <a href="/about.php">Learn more about our mission.</a>
                     </p>
                 </div>
             </div>
