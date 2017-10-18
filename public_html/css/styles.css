@@ -189,11 +189,7 @@ h5 {
     /** default is 1, scale it to 1.5 */
     opacity: 0.8;
 }
-.card:hover {
-    transform: scale(1.0, 1.1);
-    /** default is 1, scale it to 1.5 */
-    opacity: 0.8;
-}
+
 
 .tri-content {
     padding: 1em 1.5em 2em 1.5em;
